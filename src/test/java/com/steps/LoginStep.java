@@ -29,7 +29,7 @@ public class LoginStep {
 		
 		System.out.println("test1");
 		System.out.println("Test2");
-		System.out.println("Jenkins");
+		
 	}
 
 	@When("User enters username {string}")
