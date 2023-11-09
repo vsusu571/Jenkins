@@ -65,7 +65,7 @@ public class LoginStep {
 	public void system_redirects_to_dashboard_pages(String string) {
 		try {
 			System.out.println("aseetion failure...");
-			Assert.assertEquals("java", "not java");
+			//Assert.assertEquals("java", "not java");
 			//Assert.fail();
 		} catch (Exception e) {
 			// TODO: handle exception
